@@ -1,2 +1,2 @@
 # -python
-才开始学python
+python学习笔记
